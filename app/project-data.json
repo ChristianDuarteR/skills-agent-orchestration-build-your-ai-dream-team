@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "Northstar Workspace",
+      "owner": "Maya Chen",
+      "status": "Active",
+      "recentActivity": "Design review completed yesterday",
+      "priority": "High"
+    },
+    {
+      "name": "Atlas Onboarding",
+      "owner": "Jon Bell",
+      "status": "At risk",
+      "recentActivity": "Waiting on content approval",
+      "priority": "High"
+    },
+    {
+      "name": "Signal Reporting",
+      "owner": "Priya Nair",
+      "status": "Planning",
+      "recentActivity": "Scope workshop scheduled for Thursday",
+      "priority": "Medium"
+    },
+    {
+      "name": "Greenline Migration",
+      "owner": "Leo Martins",
+      "status": "Complete",
+      "recentActivity": "Handoff notes published this week",
+      "priority": "Low"
+    }
+  ]
+}
